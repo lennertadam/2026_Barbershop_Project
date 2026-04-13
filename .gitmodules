@@ -1,0 +1,6 @@
+[submodule "Hairdresser_Backend"]
+	path = Hairdresser_Backend
+	url = https://github.com/lennertadam/Hairdresser_Backend
+[submodule "Barbershop_project"]
+	path = Barbershop_project
+	url = https://github.com/Akreez/Barbershop_project.git
